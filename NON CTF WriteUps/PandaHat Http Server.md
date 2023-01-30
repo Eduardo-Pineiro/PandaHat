@@ -4,7 +4,7 @@ First I created a virtual machine, with Parrot os, for anything pandahat related
 
 ![img 1](./Images/http_server_test/http_server_1.png)
 
-Then I installed docker and docker-compose
+Then I installed docker and docker-compose.
 Although docker-compose isn't needed, I like it as you create a yaml file each time
 and its easy to modify and re-up the container compared to fully typing the docker command each time. 
 
@@ -14,7 +14,7 @@ sudo apt install docker docker-compose
 
 ![img 2](./Images/http_server_test/http_server_2.png)
 
-Now lets create the directory and make the docker compose file
+Now lets create the directory and make the docker compose file.
 
 ![img 3](./Images/http_server_test/http_server_3.png)
 
@@ -41,7 +41,7 @@ Lets create the config folder, where we will keep our nginx configuration.
 mkdir config
 ```
 
-Then start the docker compose file
+Then start the docker compose file.
 
 ```shell
 sudo docker-compose up -d --force-recreate
