@@ -64,7 +64,11 @@ Where what we see is the index file in the www directory:
 ![img 7](./Images/http_server_test/http_server_7.png)
 
 If we modify the index.html, for example we change the body,
+
 ![img 8](./Images/http_server_test/http_server_8.png)
+
 and refresh the website,
+
 ![img 9](./Images/http_server_test/http_server_9.png)
+
 it updates.
