@@ -4,7 +4,7 @@ First I created a virtual machine, with Parrot os, for anything pandahat related
 
 ![img 1](./Images/http_server_test/http_server_1.png)
 
-First I installed docker and docker-compose
+Then I installed docker and docker-compose
 Although docker-compose isn't needed, I like it as you create a yaml file each time
 and its easy to modify and re-up the container compared to fully typing the docker command each time. 
 
