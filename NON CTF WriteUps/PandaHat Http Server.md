@@ -57,7 +57,7 @@ If we take a look into the config folder, we can see the www directory which is 
 
 We can now travel to the ip address of the machine utilizing any web browser, and...
 
-![(./Images/http_server_test_6.png)]
+![(./Non%20CTF%20WriteUps/Images/http_server_test_6.png)]
 
 Where what we see is the index file in the www directory:
 
