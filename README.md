@@ -1,1 +1,1 @@
-"# PandaHat" 
+Anything related to pandahat will be published here, including competition CTF writeups, and other miscellaneous things.
